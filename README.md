@@ -2,7 +2,7 @@
 
 A beginner project where I practise comparing two AI-written answers to the same question and scoring them with a fixed rubric.
 
-> **AI disclosure:** I used Claude (Anthropic) to help draft the starting files, including the example answers and first score drafts. I review each example against the rubric, check facts, and edit scores and reasons where I disagree.
+> **AI disclosure:** I used Claude (Anthropic) to help draft the starting files, including the example questions. I review each example against the rubric, check facts, and edit scores and reasons where I disagree.
 > **Originality:** All exercises are original practice questions. They are not copied from any company's hiring test or confidential material.
 
 ## What this project shows
