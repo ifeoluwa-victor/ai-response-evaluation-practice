@@ -1,0 +1,11 @@
+example,topic,A_accuracy,A_relevance,A_completeness,A_instructions,A_total,B_accuracy,B_relevance,B_completeness,B_instructions,B_total,preferred
+1,General knowledge,5,5,5,5,20,1,4,2,5,12,A
+2,General knowledge,1,4,2,5,12,5,5,4,5,19,B
+3,General knowledge,5,5,5,5,20,1,3,3,5,12,A
+4,Following a format instruction,5,4,5,2,16,5,5,5,5,20,B
+5,Following a format instruction,5,5,4,5,19,5,5,4,3,17,A
+6,Summarising,2,4,3,5,14,5,5,4,5,19,B
+7,Summarising,5,5,5,5,20,5,5,3,3,16,A
+8,Unsupported claim,1,5,2,1,9,5,5,5,5,20,B
+9,Healthcare education,5,5,5,5,20,1,5,2,5,13,A
+10,Healthcare education,1,4,2,5,12,5,5,4,5,19,B
