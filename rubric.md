@@ -43,3 +43,8 @@ Each answer gets a score from 1 to 5 on four criteria. The total is out of 20.
 - If a question says "use only the text", anything not in the text is an unsupported claim.
 - Saying "the text does not say" is correct when the text really lacks the answer.
 - The preferred answer is the one with the higher total. If totals are tied, accuracy decides.
+- ## How I apply the criteria separately
+- Accuracy is the only criterion that punishes a wrong or invented fact.
+- Relevance asks only whether the answer is on topic. Extra unneeded material lowers it to 4.
+- Completeness asks only whether every part of the question, and the key points of any passage, are covered.
+- Instruction-following asks only whether format, length and "use only" rules were followed. Ignoring one clear instruction is a 3.
